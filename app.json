@@ -23,7 +23,7 @@
         },
         "API_KEY": {
             "description": "Get API key from your Website",
-            "value": ""
+            "value": "c8ce5ce72bbc4eeea88fa44ce14e06f6e53646b1"
         },
         "API_URL": {
             "description": "Paste ONLY ONE API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot#api-url-of-some-sites-are",
