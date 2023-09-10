@@ -27,7 +27,7 @@
         },
         "API_URL": {
             "description": "Paste ONLY ONE API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot#api-url-of-some-sites-are",
-            "value": ""
+            "value": "https://sharedisk.in/api"
         },
         "BOT_TOKEN": {
             "description": "Your bot token, Get it from @Botfather",
